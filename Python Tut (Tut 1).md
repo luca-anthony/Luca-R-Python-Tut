@@ -15,23 +15,22 @@ This is an IDE that can be used for coding in almost any language. C, C#, Python
 It is a programmers go-to environment for coding.
 Here is how you will install it.
 
-1: Go to the "Installs" folder on the root of the SD Card.
-2: Double click on the VSCodeUserSetup-x64-1.105.1
-	This is the most recent VS Code installer that will give you the most recent version of VS Code.
-3: Follow all the instructions it gives you then run the program.
 
-4: Go back to the "Installs" folder on the root of the SD Card.
-5: Double click on the python-3.14.0-amd64
-	This is the most recent version of Python.
-6: Follow the installer instructions carefully.
-	If you see the option check the "Add python.exe to PATH" option as this will allow you to run python files straight from your computer.
-7: Open the Command Prompt by searching "cmd" in the windows search menu and run the command "python --version" to verify the install.
 
-ATS 2: Running
+ATS 2: VS Code Extensions
 
 You should already have VS Code running if you followed the directions in ATS 1, but, if you don't run the program by searching VS Code in the windows search menu and press enter or click the "open application" button to run it.
 Once it is running you will have to go to the extensions section on the sidebar, the icon will look like the image below.
 
 <img width="184" height="190" alt="VSCode-Extension-Icon-" src="https://github.com/user-attachments/assets/83df1953-a3c7-494d-b2e7-1a203d9bf0ef" />
 
-After entering the menu 
+After entering the menu search "Python" in the bar.
+You should see a Python Extension Pack by Don Jayamanne, click on it and press "Install" then "Enable" once it is installed. (It may be already enabled automatically.)
+After that install any other extensions that are by Microsoft if they are not installed already.
+Then seach "Pygame" in the extensions bar and download "Pygame Snippets" by Taiwo Kareem. Enable it as well.
+Close the extensions bar by clciking on the icon again.
+
+ATS 3: File Creation
+
+Now that you have VS Code and Python as well as all the extensions, we are going to create the code folder as well as your files.
+Open the file manager on your Windows OS by going to the search menu and searching "File Explorer"
