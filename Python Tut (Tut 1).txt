@@ -30,6 +30,8 @@ Here is how you will install it.
 ATS 2: Running
 
 You should already have VS Code running if you followed the directions in ATS 1, but, if you don't run the program by searching VS Code in the windows search menu and press enter or click the "open application" button to run it.
-Once it is running you will have to go to the extensions section on the sidebar
+Once it is running you will have to go to the extensions section on the sidebar, the icon will look like the image below.
 
 <img width="184" height="190" alt="VSCode-Extension-Icon-" src="https://github.com/user-attachments/assets/83df1953-a3c7-494d-b2e7-1a203d9bf0ef" />
+
+After entering the menu 
